@@ -27,7 +27,6 @@ How to Run
 To run these scripts on an Ubuntu/Debian system, follow these steps:
 
 Clone the Repository:
-git clone https://github.com/Aryawart-Gupta/OSS-Capstone-Audit
-cd OSS-Capstone-Audit
+
 Grant Execution Permissions: chmod +x *.sh
 Execute a script: ./script1.sh
