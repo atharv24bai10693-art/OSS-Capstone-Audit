@@ -3,9 +3,9 @@
 This repository contains a technical audit and automated shell scripts developed for the **Capstone Project** at VIT Bhopal University. The project explores the origin, licensing, and Linux integration of Git, the world's most popular open-source version control system.
 
 ##  👤 Developer Information
-**Name: ATHARV SAINI
-**Registration Number: 24BAI10693
-**Institution: VIT Bhopal University
+- **Name:** ATHARV SAINI
+- **Registration Number:** 24BAI10693
+- **Institution:** VIT Bhopal University
 
 
 ##  Project Overview
@@ -27,7 +27,7 @@ This repository includes 5 automated shell scripts designed to audit the Linux e
 To run these scripts on an Ubuntu/Debian system, follow these steps:
 
 1. Clone the Repository:
-   ```b https://github.com/atharv24bai10693-art/OSS-Capstone-Audit
+   [```b https://github.com/atharv24bai10693-art/OSS-Capstone-Audit](https://github.com/atharv24bai10693-art/OSS-Capstone-Audit/tree/main)
 2. Grant Execution Permissions:
    chmod +x *.sh
 3. Execute a script:
